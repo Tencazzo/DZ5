@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz5", "dz5.csproj", "{266C80BC-7B8C-46C8-8564-B0C4CAB7DD5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodichka", "Metodichka\Metodichka.csproj", "{07128FC6-C550-43AB-B8FC-548CE3BD9542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266C80BC-7B8C-46C8-8564-B0C4CAB7DD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266C80BC-7B8C-46C8-8564-B0C4CAB7DD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266C80BC-7B8C-46C8-8564-B0C4CAB7DD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266C80BC-7B8C-46C8-8564-B0C4CAB7DD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07128FC6-C550-43AB-B8FC-548CE3BD9542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07128FC6-C550-43AB-B8FC-548CE3BD9542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07128FC6-C550-43AB-B8FC-548CE3BD9542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07128FC6-C550-43AB-B8FC-548CE3BD9542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6313B2A-58C3-439E-8348-37B6382F3424}
+	EndGlobalSection
+EndGlobal
